@@ -1,0 +1,24 @@
+# Dataset (too large for GitHub, download from AIcrowd)
+data/
+
+# Course grading tests (run them from the course repo instead)
+grading_tests/
+
+# Generated predictions
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+
+# OS
+.DS_Store
