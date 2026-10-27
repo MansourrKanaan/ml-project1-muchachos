@@ -4,7 +4,7 @@ EPFL CS-433 Machine Learning, Fall 2026.
 
 ## Team
 - Mansour Kanaan
-- 
+- Karim Alameddine
 - 
 
 ## Setup
